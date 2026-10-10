@@ -1,6 +1,6 @@
 # Patrones de registro de Agalychnis callidryas en Costa Rica (iNaturalist)
 
-**Autor(a):** _[Jarod Salas Díaz]_
+**Autor:** _[Jarod Salas Díaz]_
 
 **Cuaderno:** [cuaderno.ipynb](./cuaderno.ipynb)
 
